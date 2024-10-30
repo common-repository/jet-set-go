@@ -1,0 +1,382 @@
+.form-field .button.button-primary.button-large{
+	width: 5% !important;
+}
+h2 .nav-tab {
+    font-size: 12px;
+} 
+.loading-style-bg {
+    background-color: rgba(51, 51, 51, 0.56);
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 90%;
+    z-index: 999;
+    margin-left: -20px;
+}
+.loading-style-bg img {
+    height: 65px;
+    position: relative;
+    top: 30%;
+    width: 62px;
+}
+.jet-product-listing td span {
+    display: inline-block;
+    height: 60px;
+}
+table.table-detail{
+	border:1px solid #bdc3c7;
+}
+.table-detail tr td{
+	padding:5px;
+}
+.table-detail tr:nth-child(odd){
+	background-color:#bdc3c7;
+}
+.table-detail tr:nth-child(even){
+	background-color:#fff;
+}
+.orderitemid{
+	padding-left:20px;
+	border:none;
+}
+.orderitemtaxinfo {
+	padding-left:40px;
+}
+
+
+.inside.format > input {
+    float: right;
+}
+
+.inside.format > select {
+    float: right;
+}
+#profile_map_implementation{
+	float:right;
+}
+#cpsia_cautionary_statements_profile{
+    float: right;
+}
+
+.remove_profile{
+	float: right;
+}
+/*CHANGES*/
+
+
+.variable_cat_body .select.short, .variable_cat_body p input {
+    width: 200px !important;
+}
+.variable_cat_body label {
+    clear: left;
+    float: left;
+    padding-right: 10px;
+    width: 150px;
+}
+.variable_cat_body label, .variable_cat_body select {
+    float: left;
+}
+
+
+
+.form-field label {
+    clear: left;
+    float: left;
+    padding-right: 10px;
+    max-width: 250px;
+    width:100%;
+}
+
+.form-field label, .form-field select,
+{
+	float:left;
+}
+.wrap.package_size input
+{
+	width:63px !important;
+}
+
+.bullet_sec_div_wrap .form-field .bullet_settings
+{
+	left: 210px;
+    position: relative;
+}
+
+.shipping_exception_label > label {
+    padding-bottom: 20px;
+    width: 100%;
+}
+table#mappedWooJetCatListing {
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+#jetCatListPanel {
+    float: left;
+    width: 57%;
+}
+/*CHANGES*/
+
+
+.form-field input[type="text"] {
+    width: 40%;
+}
+.second_dropdown
+{
+	position:relative;
+	left:5px;
+}
+.attribute-profile-table .form-field label
+{
+	margin-left:30px;
+}
+.brand_attribute{ 
+	float:right!important; 
+	margin-top:-16px; 
+}
+.profileMultiSelect{
+	float:right;
+	width:255px!important;
+}
+
+#other_standard_code{
+	
+}
+#otherCode_attributeMeta{
+	
+}
+.variable_dropdown_size{
+	width:250px;
+}
+
+fieldset select#selected_order_for_refund + span.select2.select2-container.select2-container--default {
+    max-width: 200px !important;
+}
+.select2.select2-container.select2-container--default{
+   max-width: 1000px !important;
+   width: 100% !important;	
+}
+.select2-search__field{
+	width:100% !important;
+}
+#return_item_details select {
+    width: 70px;
+}
+#return_item_details input {
+    width: 50px;
+}
+#return_item_details thead tr th {
+    padding: 5px;
+    font-size: 12px !important;
+}
+#return_item_details tbody tr td {
+    padding: 10px 5px;
+}
+#selected_order_for_refund .select2.select2-container.select2-container--default{
+   max-width: 400px !important;
+   width: 100% !important;	
+}
+#selected_order_for_refund .select2-search__field{
+	width:auto !important;
+}
+
+.all_refund_item_details input {
+    max-width:137px!important;
+    width: 100% !important;
+}
+#refunds_all_details_items {
+    box-shadow: 0 1px 6px 3px #ccc;
+}
+#refunds_all_details_items thead tr th {
+    font-size: 13px;
+    padding: 5px 10px;
+}
+#return_item_details{
+	box-shadow: 0 1px 6px 3px #ccc;
+}
+#allMetaFields table tbody tr td input {
+    margin: 0 0 0 8px;
+}
+
+#table-Wrap table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 67%;
+    border: 1px solid #ddd;
+    background:#c9ddfc;
+    text-align: center;
+}
+
+#table-Wrap table thead th {
+    background-color: #22a7f0;
+    border: 1px solid #dddddd;
+    color: #fff;
+    padding: 5px;
+}
+
+#table-Wrap table tbody td {
+    border: 1px solid #dddddd;
+    padding: 5px;
+}
+#catMapButton {
+    background-color: #5b67ef;
+    border: 1px solid #5b67ef;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#catMapButton:hover {
+  bottom: 1px;
+  box-shadow: 0 4px 2px 3px #efedea;
+  position: relative;
+}
+
+.editMappedCat {
+    background: #ffce54 none repeat scroll 0 0;
+    border: 1px solid #ffce54;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+.deleteMappedCat {
+    background: #ffb535 none repeat scroll 0 0;
+    border: 1px solid #ffb535;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.deleteMappedCat:hover {
+  bottom: 1px;
+  box-shadow: 0 4px 2px 3px #efedea;
+  position: relative;
+}
+.select2-dropdown {
+	position: relative !important;
+    z-index: 2147483647 !important;
+}
+#wpbody-content{
+    min-height: 0px !important;	
+}
+table .validation_message > p{
+	margin: 0;
+}
+.product_fixed_name{
+	overflow:hidden;
+}
+
+.mass_product_all_data h4 {
+    display: inline-block;
+    max-width: 19%;
+    width: 100%;
+}
+
+.mass_product_all_data .select2.select2-container {
+    display: inline-block !important;
+    max-width: 79% !important;
+    width: 100% !important;
+}
+
+#mass_cat_assign {
+    width: 100%;
+}
+
+.assign_profile_on_cat span.select2.select2-container.select2-container--default {
+    max-width: 200px !important;
+    width: 100% !important;
+}
+
+#jet_attribute_settings p label {
+    width: 49%;
+}
+
+element.style {
+    display: none;
+}
+.woocommerce_options_panel select {
+    float: left;
+}
+.woocommerce_options_panel input, .woocommerce_options_panel select, .woocommerce_options_panel textarea {
+    margin: 0;
+}
+.wp-admin select {
+    height: 28px;
+    line-height: 28px;
+    padding: 2px;
+}
+#your-profile label + a, .wp-admin select, fieldset label, label {
+    vertical-align: middle;
+}
+.meta-box-sortables select, p.submit {
+    max-width: 100%;
+}
+.shipping_carrier_used {
+    padding-left: 10px;
+    width: 38%;
+}
+.file_upload_mangpro {
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 49%;
+}
+fieldset.manage_prod_cat {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-bottom:10px;
+}
+.file_upload_mangpro .select2.select2-container, fieldset.manage_prod_cat .select2.select2-container {
+    max-width: 80% !important;
+}
+
+.jet_mange_pro_btn {
+    display: inline-block;
+    float: left;
+}
+
+/*  PREREQUISITES SECTION  */
+.required_fiels_div {
+  border: 11px solid #dddddd;
+  margin: 10px 0;
+  max-width: 700px;
+  padding: 10px 0 20px;
+  width: 100%;
+}
+.required_fiels_tabl img {
+  margin: 0 5px -4px 0;
+  width: 18px;
+}
+.required_fiels_div > div {
+  font-style: italic;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+.required_fiels_div table.required_fiels_tabl {
+  padding: 0px 10px;
+  width: 100%;
+}
+.required_fiels_div table.required_fiels_tabl tbody tr td {
+  background-color: #f2f2f2;
+  border-bottom: 1px dashed;
+  padding: 10px;
+}
+@media only screen and (max-width: 768px){
+	.required_fiels_div {
+     max-width: 90%!important;
+ }
+}
+/*  END OF PREREQUISITES SECTION  */
+
+.item_day_to_return {
+  width: 50px!important;
+}

@@ -1,0 +1,27 @@
+.loading-style-bg {
+    background-color: rgba(51, 51, 51, 0.56);
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 90%;
+    z-index: 999;
+    margin-left: -20px;
+}
+.loading-style-bg img {
+    height: 65px;
+    position: relative;
+    top: 30%;
+    width: 62px;
+}
+.wrapper{
+	z-index: 99;
+	position: relative;
+	height:1000px;
+}
+h1{
+	font-size: 30px;
+	color: brown;
+}
+
+
